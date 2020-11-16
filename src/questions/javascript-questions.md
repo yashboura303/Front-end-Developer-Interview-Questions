@@ -16,7 +16,7 @@ permalink: /questions/javascript-questions/index.html
 * What's a typical use case for anonymous functions?
 * What's the difference between host objects and native objects?
 * Explain the difference between: `function Person(){}`, `var person = Person()`, and `var person = new Person()`?
-* Explain the differences on the usage of `foo` between `function foo() {}` and `var foo = function() {}`
+* Explain the differences on the usage of `foo` between `function foo() {}` and `var foo = function() {}`[Ans](https://stackoverflow.com/a/336868/9961394)
 * Can you explain what `Function.call` and `Function.apply` do? What's the notable difference between the two?
 * Explain `Function.prototype.bind`.
 * What's the difference between feature detection, feature inference, and using the UA string?
