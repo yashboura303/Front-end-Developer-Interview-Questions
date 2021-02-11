@@ -13,11 +13,11 @@ permalink: /questions/javascript-questions/index.html
 * What is a closure, and how/why would you use one?
 * What language constructions do you use for iterating over object properties and array items?
 * Can you describe the main difference between the `Array.forEach()` loop and `Array.map()` methods and why you would pick one versus the other? [Ans](https://www.freecodecamp.org/news/4-main-differences-between-foreach-and-map/)
-* What's a typical use case for anonymous functions? [Ans] (https://qr.ae/pN3aG5)
+* What's a typical use case for anonymous functions? [Ans](https://qr.ae/pN3aG5)
 * What's the difference between host objects and native objects?
 * Explain the difference between: `function Person(){}`, `var person = Person()`, and `var person = new Person()`?
 * Explain the differences on the usage of `foo` between `function foo() {}` and `var foo = function() {}`[Ans](https://stackoverflow.com/a/336868/9961394)
-* Can you explain what `Function.call` and `Function.apply` do? What's the notable difference between the two?
+* Can you explain what `Function.call` and `Function.apply` do? What's the notable difference between the two? [Ans](https://stackoverflow.com/a/52081193/9961394)
 * Explain `Function.prototype.bind`.
 * What's the difference between feature detection, feature inference, and using the UA string?
 * Explain "hoisting".
