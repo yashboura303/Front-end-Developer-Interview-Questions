@@ -12,7 +12,7 @@ permalink: /questions/javascript-questions/index.html
   * How would you go about checking for any of these states?
 * What is a closure, and how/why would you use one?
 * What language constructions do you use for iterating over object properties and array items?
-* Can you describe the main difference between the `Array.forEach()` loop and `Array.map()` methods and why you would pick one versus the other?
+* Can you describe the main difference between the `Array.forEach()` loop and `Array.map()` methods and why you would pick one versus the other? [Ans](https://www.freecodecamp.org/news/4-main-differences-between-foreach-and-map/)
 * What's a typical use case for anonymous functions?
 * What's the difference between host objects and native objects?
 * Explain the difference between: `function Person(){}`, `var person = Person()`, and `var person = new Person()`?
