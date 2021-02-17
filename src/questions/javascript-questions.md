@@ -21,13 +21,13 @@ permalink: /questions/javascript-questions/index.html
 * Explain `Function.prototype.bind`.
 * What's the difference between feature detection, feature inference, and using the UA string?
 * Explain "hoisting".
-* Describe event bubbling.
+* Describe event bubbling. [Ans] (https://stackoverflow.com/a/4616720/9961394)
 * Describe event capturing.
 * What's the difference between an "attribute" and a "property"?
 * What are the pros and cons of extending built-in JavaScript objects?
-* What is the difference between `==` and `===`?
+* What is the difference between `==` and `===`? [Ans](https://www.java67.com/2013/07/difference-between-equality-strict-vs-operator-in-JavaScript-Interview-Question.html#:~:text=In%20one%20word%2C%20main%20difference,variable%2C%20if%20two%20variables%20are)
 * Explain the same-origin policy with regards to JavaScript.
-* Why is it called a Ternary operator, what does the word "Ternary" indicate?
+* Why is it called a Ternary operator, what does the word "Ternary" indicate? [Ans](http://rlynjb.github.io/wandrr/JS-Interview-Question-Why-is-it-called-a-Ternary-expression-what-does-the-word-Ternary-indicate)
 * What is strict mode? What are some of the advantages/disadvantages of using it?
 * What are some of the advantages/disadvantages of writing JavaScript code in a language that compiles to JavaScript?
 * What tools and techniques do you use debugging JavaScript code?
