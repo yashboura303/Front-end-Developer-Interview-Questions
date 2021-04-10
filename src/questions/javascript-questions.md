@@ -36,17 +36,17 @@ permalink: /questions/javascript-questions/index.html
   * What are the pros and cons of immutability?
   * How can you achieve immutability in your own code?
 * Explain the difference between synchronous and asynchronous functions.
-* What is event loop?
-  * What is the difference between call stack and task queue?
-* What are the differences between variables created using `let`, `var` or `const`?
+* What is event loop? [Ans](https://www.educative.io/edpresso/what-is-an-event-loop-in-javascript)
+  * What is the difference between call stack and task queue? [Ans](https://stackoverflow.com/questions/33874419/difference-between-call-stack-and-task-queue#:~:text=So%20in%20short%2C%20a%20job,method%20from%20a%20call%20stack.)
+* What are the differences between variables created using `let`, `var` or `const`? [Ans](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/#:~:text=var%20declarations%20are%20globally%20scoped%20or%20function%20scoped%20while%20let,the%20top%20of%20their%20scope.)
 * What are the differences between ES6 class and ES5 function constructors?
-* Can you offer a use case for the new arrow `=>` function syntax? How does this new syntax differ from other functions?
+* Can you offer a use case for the new arrow `=>` function syntax? How does this new syntax differ from other functions?[Ans](https://www.youtube.com/watch?v=h33Srr5J9nY)
 * What advantage is there for using the arrow syntax for a method in a constructor?
 * What is the definition of a higher-order function?
 * Can you give an example for destructuring an object or an array?
 * Can you give an example of generating a string with ES6 Template Literals?
 * Can you give an example of a curry function and why this syntax offers an advantage?
-* What are the benefits of using `spread syntax` and how is it different from `rest syntax`?
+* What are the benefits of using `spread syntax` and how is it different from `rest syntax`? [Ans](https://javascript.info/rest-parameters-spread)
 * How can you share code between files?
 * Why you might want to create static class members?
 * What is the difference between `while` and `do-while` loops in JavaScript?
