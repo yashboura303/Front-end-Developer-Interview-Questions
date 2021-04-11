@@ -50,7 +50,7 @@ permalink: /questions/javascript-questions/index.html
 * How can you share code between files?
 * Why you might want to create static class members?
 * What is the difference between `while` and `do-while` loops in JavaScript?
-* What is a promise? Where and how would you use promise?
+* What is a promise? Where and how would you use promise?[Ans](https://javascript.info/promise-basics)
 
 ## Coding questions
 * Make this work:
