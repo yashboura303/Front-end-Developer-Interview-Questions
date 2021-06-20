@@ -49,6 +49,7 @@ permalink: /questions/javascript-questions/index.html
 * What are the benefits of using `spread syntax` and how is it different from `rest syntax`? [Ans](https://javascript.info/rest-parameters-spread)
 * How can you share code between files?
 * Why you might want to create static class members?
+* Where would you put your Javascript files? Would you use async or defer? If yes, when and how? [Ans](https://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html#script)
 * What is the difference between `while` and `do-while` loops in JavaScript?
 * What is a promise? Where and how would you use promise?[Ans](https://javascript.info/promise-basics)
 
