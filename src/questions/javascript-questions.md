@@ -10,7 +10,7 @@ permalink: /questions/javascript-questions/index.html
 * Explain how prototypal inheritance works.
 * What's the difference between a variable that is: `null`, `undefined` or undeclared?
   * How would you go about checking for any of these states?
-* What is a closure, and how/why would you use one?
+* What is a closure, and how/why would you use one? [Ans 1](https://stackoverflow.com/a/39045098/9961394) [Ans 2](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 * What language constructions do you use for iterating over object properties and array items?
 * Can you describe the main difference between the `Array.forEach()` loop and `Array.map()` methods and why you would pick one versus the other? [Ans](https://www.freecodecamp.org/news/4-main-differences-between-foreach-and-map/)
 * What's a typical use case for anonymous functions? [Ans](https://qr.ae/pN3aG5)
