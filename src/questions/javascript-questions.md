@@ -7,6 +7,7 @@ permalink: /questions/javascript-questions/index.html
 * Explain event delegation.[Ans](https://gomakethings.com/whats-the-difference-between-javascript-event-delegation-bubbling-and-capturing/#event-delegation)  [Check this too](https://www.tutorialspoint.com/what-is-event-bubbling-and-capturing-in-javascript#:~:text=With%20bubbling%2C%20the%20event%20is,propagated%20to%20the%20inner%20elements.)
 * Explain how `this` works in JavaScript. [Ans](https://youtu.be/Pv9flm-80vM)
 * Can you give an example of one of the ways that working with `this` has changed in ES6?
+* Map, filter, reduce - [Ans](https://codeburst.io/map-filter-and-reduce-in-javascript-d2725c59571d) [Ans2](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
 * Explain how prototypal inheritance works.
 * What's the difference between a variable that is: `null`, `undefined` or undeclared?
   * How would you go about checking for any of these states?
