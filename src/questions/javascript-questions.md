@@ -43,11 +43,11 @@ permalink: /questions/javascript-questions/index.html
 * What are the differences between variables created using `let`, `var` or `const`? [Ans](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/#:~:text=var%20declarations%20are%20globally%20scoped%20or%20function%20scoped%20while%20let,the%20top%20of%20their%20scope.)
 * What are the differences between ES6 class and ES5 function constructors?
 * Can you offer a use case for the new arrow `=>` function syntax? How does this new syntax differ from other functions?[Ans](https://www.youtube.com/watch?v=h33Srr5J9nY)
-* What advantage is there for using the arrow syntax for a method in a constructor?
+* What advantage is there for using the arrow syntax for a method in a constructor? [Ans](https://www.section.io/engineering-education/how-to-use-javascript-arrow-functions-and-this-keyword/)
 * What is the definition of a higher-order function?
 * Can you give an example for destructuring an object or an array?
 * Can you give an example of generating a string with ES6 Template Literals?
-* Can you give an example of a curry function and why this syntax offers an advantage?
+* Can you give an example of a curry function and why this syntax offers an advantage? [Ans](https://javascript.info/currying-partials)
 * What are the benefits of using `spread syntax` and how is it different from `rest syntax`? [Ans](https://javascript.info/rest-parameters-spread)
 * How can you share code between files?
 * Why you might want to create static class members?
