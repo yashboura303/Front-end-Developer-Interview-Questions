@@ -20,7 +20,7 @@ permalink: /questions/javascript-questions/index.html
 * Explain the difference between: `function Person(){}`, `var person = Person()`, and `var person = new Person()`?
 * Explain the differences on the usage of `foo` between `function foo() {}` and `var foo = function() {}`[Ans](https://stackoverflow.com/a/336868/9961394)
 * Can you explain what `Function.call` and `Function.apply` do? What's the notable difference between the two? [Ans](https://stackoverflow.com/a/52081193/9961394)
-* Explain `Function.prototype.bind`.
+* Explain `Function.prototype.bind`. [Ans](https://blog.bitsrc.io/understanding-call-bind-and-apply-methods-in-javascript-33dbf3217be)
 * What's the difference between feature detection, feature inference, and using the UA string?
 * Explain "hoisting".
 * Describe event bubbling. [Ans](https://stackoverflow.com/a/4616720/9961394)
