@@ -9,7 +9,8 @@ permalink: /questions/javascript-questions/index.html
 * Can you give an example of one of the ways that working with `this` has changed in ES6?
 * Map, filter, reduce - [Ans](https://codeburst.io/map-filter-and-reduce-in-javascript-d2725c59571d) [Ans2](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
 * Explain how prototypal inheritance works.
-* What's the difference between a variable that is: `null`, `undefined` or undeclared?
+* Debouncing and throttling [Ans](https://www.telerik.com/blogs/debouncing-and-throttling-in-javascript) [Ans2](https://stackoverflow.com/questions/25991367/difference-between-throttling-and-debouncing-a-function)
+* What's the difference between a variable that is: `null`, `undefined` or undeclared? [Ans](https://betterprogramming.pub/javascript-interviews-whats-the-difference-between-a-variable-that-s-null-undefined-or-cb1c8f41e6c3)
   * How would you go about checking for any of these states?
 * What is a closure, and how/why would you use one? [Ans 1](https://stackoverflow.com/a/39045098/9961394) [Ans 2](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 * What language constructions do you use for iterating over object properties and array items?
